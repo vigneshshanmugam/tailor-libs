@@ -1,0 +1,16 @@
+{
+  "name": "tailor-libs",
+  "private": true,
+  "description": "Tailor library collection",
+  "main": "index.js",
+  "repository": "git@github.com:vigneshshanmugam/tailor-libs.git",
+  "author": "Vignesh Shanmugam",
+  "license": "MIT",
+  "scripts": {
+    "test": "lerna run test"
+  },
+  "devDependencies": {
+    "lerna": "^3.16.4",
+    "mocha": "^6.2.0"
+  }
+}

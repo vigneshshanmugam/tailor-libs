@@ -1,0 +1,34 @@
+{
+  "name": "tailor-http-client",
+  "version": "0.0.0",
+  "description": "Opinionated HTTP client for tailor",
+  "keywords": [
+    "http",
+    "client",
+    "tailor"
+  ],
+  "author": "vigneshshanmugam <vignesh.shanmugam22@gmail.com>",
+  "homepage": "https://github.com/vigneshshanmugam/tailor-libs#readme",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshshanmugam/tailor-libs.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "bugs": {
+    "url": "https://github.com/vigneshshanmugam/tailor-libs/issues"
+  }
+}
