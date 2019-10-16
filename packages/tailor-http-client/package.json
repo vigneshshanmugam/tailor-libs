@@ -30,5 +30,8 @@
   },
   "bugs": {
     "url": "https://github.com/vigneshshanmugam/tailor-libs/issues"
+  },
+  "dependencies": {
+    "agentkeepalive": "^4.1.0"
   }
 }
